@@ -10,5 +10,5 @@ package com.mycompany.proba;
  * @author Leon
  */
 public class Fasza {
-    // második
+    // harmadik
 }
